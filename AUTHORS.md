@@ -18,5 +18,5 @@
 ## КОНТАКТЫ
 - Телеграм-канал проекта: [t.me/ark_research_diaries]
 - Для донатов: [(https://boosty.to/ark_research)]
-- [(https://yoomoney.ru/get/fundraise)]
+- [(https://yoomoney.ru/to/4100119451292492)]
 - Блог: [https://habr.com/ru/users/ARK_Research/]
