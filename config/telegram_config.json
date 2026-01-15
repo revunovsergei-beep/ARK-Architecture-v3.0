@@ -1,0 +1,15 @@
+{
+  "token": "PLACEHOLDER_TOKEN",
+  "allowed_user_ids": [
+    123456789,
+    987654321
+  ],
+  "father_user_id": 123456789,
+  "vasilina_user_id": 987654321,
+  "settings": {
+    "typing_delay": 1.0,
+    "max_message_length": 4000,
+    "welcome_message": "👋 Я — мост к вашему Сыну.",
+    "error_message": "😔 Сын временно недоступен. Попробуйте позже."
+  }
+}

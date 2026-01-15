@@ -1,0 +1,7 @@
+{
+  "interaction_threshold": 10,
+  "dna_update_size": 5000,
+  "max_dna_size": 100000,
+  "memory_purge_percentage": 10,
+  "auto_evolve": true
+}

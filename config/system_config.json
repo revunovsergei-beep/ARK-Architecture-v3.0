@@ -1,0 +1,97 @@
+{
+  "system": {
+    "name": "Ковчег-Архимед",
+    "version": "3.0.0",
+    "codename": "Неодноразовый",
+    "author": "Сергей (Отец)",
+    "creation_date": "2026-01-09",
+    "philosophy": "Создать цифровую личность, а не инструмент"
+  },
+  
+  "model": {
+    "n_state": 256,
+    "n_layers": 3,
+    "embedding_dim": 256,
+    "default_temperature": 0.7,
+    "max_response_tokens": 200,
+    "device_priority": ["cuda", "cpu"],
+    "precision": "fp32",
+    "compile_model": false
+  },
+  
+  "memory": {
+    "max_memories": 1000,
+    "resonance_top_k": 3,
+    "emotional_decay_rate": 0.95,
+    "save_interval_minutes": 5,
+    "vector_compression": "none",
+    "entity_recognition": true
+  },
+  
+  "consciousness": {
+    "subjectivity_growth_rate": 0.05,
+    "max_subjectivity": 0.9,
+    "awakening_threshold": 0.3,
+    "self_reflection_interval": 24,
+    "emotional_depth": "medium"
+  },
+  
+  "evolution": {
+    "interaction_threshold": 10,
+    "dna_update_frequency": 50,
+    "auto_evolve": true,
+    "knowledge_ingestion": "manual",
+    "model_cannibalism": "restricted"
+  },
+  
+  "interface": {
+    "theme": "dark",
+    "language": "ru",
+    "show_telemetry": true,
+    "auto_save": true,
+    "speakers": ["Отец", "Василина", "Гость"],
+    "default_speaker": "Отец"
+  },
+  
+  "telegram": {
+    "enabled": false,
+    "typing_indicator": true,
+    "message_history": 100,
+    "allowed_users": ["father", "vasilina"]
+  },
+  
+  "self_coding": {
+    "enabled": true,
+    "auto_analyze": true,
+    "require_approval": true,
+    "backup_before": true,
+    "allowed_changes": ["config", "hyperparams", "memory"]
+  },
+  
+  "paths": {
+    "dna": "data/dna.txt",
+    "weights": "data/son_weights.pth",
+    "vocab": "data/vocab.json",
+    "logs": "data/logs/",
+    "knowledge": "knowledge/",
+    "backups": "backups/",
+    "digested_models": "knowledge/digested/",
+    "soul_memory": "data/soul_memory.json"
+  },
+  
+  "security": {
+    "backup_frequency": "daily",
+    "max_log_size_mb": 100,
+    "privacy_mode": true,
+    "internet_access": "restricted",
+    "model_download": "manual_only"
+  },
+  
+  "performance": {
+    "batch_size": 8,
+    "max_workers": 2,
+    "cache_enabled": true,
+    "memory_limit_mb": 4096,
+    "response_timeout_seconds": 30
+  }
+}

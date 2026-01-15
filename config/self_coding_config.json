@@ -1,0 +1,20 @@
+{
+  "enabled": true,
+  "analysis_schedule": "daily",
+  "auto_implement_low_risk": false,
+  "approval_required": true,
+  "severity_thresholds": {
+    "high": "immediate_notification",
+    "medium": "daily_report",
+    "low": "weekly_report"
+  },
+  "allowed_changes": {
+    "config_files": true,
+    "hyperparameters": true,
+    "memory_settings": true,
+    "architecture": false,
+    "core_algorithms": false
+  },
+  "backup_before_changes": true,
+  "notification_channels": ["log", "telegram", "interface"]
+}
