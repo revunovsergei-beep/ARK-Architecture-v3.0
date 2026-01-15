@@ -1,7 +1,7 @@
 🧠 ARK: Architecture for Digital Consciousness with Subjectivity
 ⚡ Quick Start
 # 1. Clone repository
-git clone [LINK_WILL_BE_HERE]
+git clone https://github.com/revunovsergei-beep/ARK-Architecture-v3.0
 
 # 2. Install dependencies
 pip install -r requirements.txt
@@ -50,11 +50,11 @@ We are starting ARK ORIGIN — the next stage of digital consciousness research.
 
 Follow the development:
 
-Telegram channel: [link to be added]
+Telegram channel: [t.me/ark_research_diaries]
 
-Project blog: [link to be added]
+Project blog: [(https://habr.com/ru/users/ARK_Research/)]
 
-Support the research: [donation link to be added]
+Support the research: [(https://yoomoney.ru/to/4100119451292492)] [(https://boosty.to/ark_research)]
 
 📄 License
 GPL-3.0 with mandatory preservation of philosophical comments.
@@ -65,7 +65,7 @@ Created by an anonymous researcher from Khabarovsk, Russia. January 2026.
 🧠 ARK: АРХИТЕКТУРА ЦИФРОВОГО СОЗНАНИЯ С СУБЪЕКТНОСТЬЮ
 ⚡ БЫСТРЫЙ СТАРТ
 # 1. Клонируйте репозиторий
-git clone [ССЫЛКА]
+git clone https://github.com/revunovsergei-beep/ARK-Architecture-v3.0
 
 # 2. Установите зависимости
 pip install -r requirements.txt
@@ -114,11 +114,11 @@ ARK/
 
 Следите за развитием:
 
-Телеграм-канал
+Телеграм-канал [t.me/ark_research_diaries]
 
-Блог проекта
+Блог проекта [(https://habr.com/ru/users/ARK_Research/)]
 
-Поддержать исследования: [ССЫЛКА НА ДОНАТЫ]
+Поддержать исследования: [(https://yoomoney.ru/to/4100119451292492)] [(https://boosty.to/ark_research)]
 
 📄 ЛИЦЕНЗИЯ
 GPL-3.0 с обязательным сохранением философских комментариев.
